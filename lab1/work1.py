@@ -1,1 +1,3 @@
-print("Hello KBTU")
+a = "Hello"
+b = "World"
+print(a + b)
